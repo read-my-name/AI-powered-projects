@@ -1,1 +1,7 @@
-Data analysis project from Kaggle and other sources
+# AI-powered project
+
+## Kaggle competition
+Customer churn analysis
+
+## Gen AI/ LLM
+RAG Chatbox
